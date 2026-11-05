@@ -1,1 +1,52 @@
-[]
+[
+ {
+  "id": "PIN 2.1",
+  "when": "2026-11-05 08",
+  "image": "https://banovax.github.io/banovax-reels/pins/day2/pin-2-1.png",
+  "board_id": "1141240430515230465",
+  "link": "https://banovax.gumroad.com/",
+  "title": "First Digital Product Ideas: Make It Small Enough to Finish",
+  "description": "If your first digital product takes more than 2 weeks to build, make it smaller. Turn a 20-lesson course into a ready kit, a 200-page guide into a 10-page guide with one worked example, and an app into a spreadsheet that does the math. Small enough to finish means small enough to test and sell.",
+  "alt_text": "Comparison of too-big first digital products and right-size versions: a 20-lesson video course becomes a ready kit with a Start Here page, a 200-page guide becomes a 10-page guide with one worked example, an app becomes a spreadsheet that does the math."
+ },
+ {
+  "id": "PIN 2.2",
+  "when": "2026-11-05 11",
+  "image": "https://banovax.github.io/banovax-reels/pins/day2/pin-2-2.png",
+  "board_id": "1141240430515230559",
+  "link": "https://banovax.gumroad.com/",
+  "title": "Views But No Sales? Find the Leak in Your Etsy or Gumroad Listing",
+  "description": "Etsy and Gumroad sellers: every sale passes 4 steps. Seen, clicked, read the page, bought. Seen but not clicked? Your title and image don't match the search. Clicked but left fast? Your first line doesn't say who it's for. Read but didn't buy? A doubt is left unanswered. Fix the first leak only, then wait.",
+  "alt_text": "Sales funnel for Etsy and Gumroad sellers with 4 steps, seen, clicked, read the page, bought, and the leak to check at each step."
+ },
+ {
+  "id": "PIN 2.3",
+  "when": "2026-11-05 14",
+  "image": "https://banovax.github.io/banovax-reels/pins/day2/pin-2-3.png",
+  "board_id": "1141240430515233343",
+  "link": "https://banovax.gumroad.com/l/ai-shopping-readiness-kit",
+  "title": "Does ChatGPT Recommend Your Store? 13 AI Tests for Shopify Owners",
+  "description": "Shopify owners: does AI find your store without your name, recommend you when shoppers ask what to buy, and describe you correctly? The AI Shopping Readiness Kit gives you 13 ready tests, including 5 blind tests, that you paste into any AI assistant. The free ChatGPT works. For Shopify and any online store.",
+  "alt_text": "Pin for Shopify owners showing three kinds of AI tests: discovery, does AI find you without your name, including 5 blind tests; recommendation, does it recommend you; understanding, does it describe you correctly. AI Shopping Readiness Kit."
+ },
+ {
+  "id": "PIN 2.4",
+  "when": "2026-11-05 17",
+  "image": "https://banovax.github.io/banovax-reels/pins/day2/pin-2-4.png",
+  "board_id": "1141240430515230559",
+  "link": "https://banovax.gumroad.com/l/ai-shopping-readiness-kit",
+  "title": "Product Page Audit: Find the Weakest Part of Your Page First",
+  "description": "Store owners: answer 25 quick questions about your product page and get a score out of 100, with a score for each section. See your strengths, weak spots and a priority list of what to fix first, then score again and compare. Inside the AI Shopping Readiness Kit, for Shopify, Etsy, Gumroad and any online store.",
+  "alt_text": "Product page audit steps for store owners: answer 25 quick questions, get a score for each section and a total out of 100, see what to fix first, fix and score again. AI Shopping Readiness Kit."
+ },
+ {
+  "id": "PIN 2.5",
+  "when": "2026-11-05 20",
+  "image": "https://banovax.github.io/banovax-reels/pins/day2/pin-2-5.png",
+  "board_id": "1141240430515233356",
+  "link": "https://banovax.gumroad.com/l/digital-product-system",
+  "title": "90-Day Plan to Launch Your First Digital Product: The Whole Map",
+  "description": "From idea to launch in 13 weeks and 6 gates: find a scored idea, prove people want it from your desk, build a small first version, get found with keywords and content, convert with a product page and welcome emails, then improve one change at a time. About 5 to 8 hours a week, with a special skill or without one. Inside The Digital Product System: From Idea to Sales.",
+  "alt_text": "Map of a 13-week plan to launch a digital product in 6 gates: weeks 1-2 Find, 3-4 Prove, 5-6 Build, 7-8 Be Found, 9-10 Convert, 11-13 Improve. The Digital Product System: From Idea to Sales."
+ }
+]
