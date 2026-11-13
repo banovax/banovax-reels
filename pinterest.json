@@ -508,5 +508,55 @@
   "title": "Digital Product Monthly Dashboard: Find Your Weakest Step",
   "description": "One look a month tells you what to fix. Compare page views, email signups, product page visits and sales, find the weakest step, change only that, and check again next month. Monthly Dashboard inside The Digital Product System: From Idea to Sales.",
   "alt_text": "Example monthly dashboard with bars for page views, email signups, product page visits and sales, with the weakest step highlighted to fix first."
+ },
+ {
+  "id": "PIN 12.1",
+  "when": "2026-11-15 08",
+  "image": "https://banovax.github.io/banovax-reels/pins/day12/pin-12-1.png",
+  "board_id": "1141240430515230465",
+  "link": "https://banovax.gumroad.com/",
+  "title": "How to Know if a Digital Product Idea Is Wanted: The Evidence Ladder",
+  "description": "Count actions, not compliments. The evidence ladder has 5 levels: people give opinions, ask or complain repeatedly, spend effort on workarounds like self-made templates and spreadsheets, give their email or time, and give money. Research mostly finds levels 2 and 3, and that's enough to score an idea.",
+  "alt_text": "Evidence ladder with 5 levels for testing a digital product idea: 1 give opinions, 2 ask or complain repeatedly, 3 spend effort on workarounds, 4 give their email or time, 5 give money. Levels 2 and 3 highlighted."
+ },
+ {
+  "id": "PIN 12.3",
+  "when": "2026-11-15 11",
+  "image": "https://banovax.github.io/banovax-reels/pins/day12/pin-12-3.png",
+  "board_id": "1141240430515230559",
+  "link": "https://banovax.gumroad.com/l/ai-shopping-readiness-kit",
+  "title": "Etsy Listing Score: Stop Guessing, Score Your Listing Out of 100",
+  "description": "Etsy sellers: stop guessing your listing. Guessing means rewrite, hope, repeat. Scoring means 25 questions, a score out of 100 with a score for each section, and fixing the weakest part first. AI Shopping Readiness Kit, for Etsy, Shopify and any online store.",
+  "alt_text": "Blank score gauge out of 100 for an Etsy listing with section bars, and a comparison: guessing means rewrite, hope, repeat; scoring means 25 questions and fixing the weakest part first. AI Shopping Readiness Kit."
+ },
+ {
+  "id": "PIN 12.2",
+  "when": "2026-11-15 14",
+  "image": "https://banovax.github.io/banovax-reels/pins/day12/pin-12-2.png",
+  "board_id": "1141240430515233356",
+  "link": "https://banovax.gumroad.com/",
+  "title": "Keyword Research for Etsy and Gumroad Sellers: Pick Keywords You Can Win",
+  "description": "Gumroad and Etsy sellers: score each keyword 1 to 3 on relevance, winnability and value, then multiply. 18 or more, write now. 9 to 17, later. Under 9, skip. Tip: open the search results before you score. If big sites fill page one, winnability is low.",
+  "alt_text": "Keyword priority formula for Etsy and Gumroad sellers: relevance times winnability times value, each scored 1 to 3, with 18 plus write now, 9 to 17 later, under 9 skip."
+ },
+ {
+  "id": "PIN 12.5",
+  "when": "2026-11-15 17",
+  "image": "https://banovax.github.io/banovax-reels/pins/day12/pin-12-5.png",
+  "board_id": "1141240430515256561",
+  "link": "https://banovax.gumroad.com/l/digital-product-system",
+  "title": "14-Day Fast Start or 90-Day Plan? How to Launch a Digital Product",
+  "description": "14 days to test it, 13 weeks to launch it. The 14-Day Fast Start is a quick test: 7 short steps, about 6 hours, and a first answer on whether the idea is worth more time. The 90-Day Plan, the one I recommend, takes you from idea to a launched product in about 5 to 8 hours a week. Both inside The Digital Product System: From Idea to Sales.",
+  "alt_text": "Comparison of the 14-Day Fast Start quick test, 7 steps and about 6 hours, and the recommended 90-Day Plan, 13 weeks at about 5 to 8 hours a week, from idea to a launched product."
+ },
+ {
+  "id": "PIN 12.4",
+  "when": "2026-11-15 20",
+  "image": "https://banovax.github.io/banovax-reels/pins/day12/pin-12-4.png",
+  "board_id": "1141240430515234529",
+  "link": "https://banovax.gumroad.com/l/ai-shopping-readiness-kit",
+  "title": "Rewrite Your Gumroad Product Page in 4 Parts",
+  "description": "Gumroad sellers: rebuild your page in 4 parts with Copy Studio: a clearer title, opening lines with who it's for and the result, a details table that's easy to scan, and an FAQ that answers doubts. Then score it again in AFTER and see what changed. AI Shopping Readiness Kit.",
+  "alt_text": "Product page wireframe with 4 numbered parts to rebuild: a clearer title, opening lines, a details table and an FAQ, for Gumroad sellers. Copy Studio in the AI Shopping Readiness Kit."
  }
 ]
