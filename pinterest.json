@@ -658,5 +658,55 @@
   "title": "AI Shopping Readiness Kit: What's Inside, Tab by Tab",
   "description": "Store owners: here's what's inside, tab by tab. Start and field guide, a worked example, BEFORE with 25 questions, SETUP, 13 AI tests, RESULTS, IMPROVE with a master prompt, COPY STUDIO, AFTER, and 10 core prompts. PRO adds 5 more tabs. For Shopify, Etsy, Gumroad and any online store.",
   "alt_text": "Map of 10 tabs inside the AI Shopping Readiness Kit Standard: start, worked example, before, setup, AI tests, results, improve, copy studio, after, prompts, colour-coded by start, measure and test, fix, compare."
+ },
+ {
+  "id": "PIN 15.1",
+  "when": "2026-11-18 08",
+  "image": "https://banovax.github.io/banovax-reels/pins/day15/pin-15-1.png",
+  "board_id": "1141240430515233356",
+  "link": "https://banovax.gumroad.com/",
+  "title": "How to Sell Digital Products Without an Audience: The 10-Question Test",
+  "description": "No audience yet? Write 10 specific questions the people you want to help type into search. 10 or more? Lead with search, buyers are already looking. Fewer? Make your group more specific and try again. Save it and fill it in.",
+  "alt_text": "Notepad template for the 10-question search test with 3 example questions for short-stay hosts filled in and 7 blank lines, plus results: 10 or more lead with search, fewer make your group more specific."
+ },
+ {
+  "id": "PIN 15.4",
+  "when": "2026-11-18 11",
+  "image": "https://banovax.github.io/banovax-reels/pins/day15/pin-15-4.png",
+  "board_id": "1141240430515230465",
+  "link": "https://banovax.gumroad.com/l/digital-product-system",
+  "title": "Digital Product Research: Collect Real Problems in Their Own Words",
+  "description": "Finding your first idea? Collect real problems from 1 to 3 star reviews, how do I threads, search autocomplete and homemade fixes. Log where you found each one, their exact words and any workaround. Aim for about 20, then score the best one. Research Log inside The Digital Product System: From Idea to Sales.",
+  "alt_text": "Four places to find real problems, reviews, threads, autocomplete and homemade fixes, with an example research log table of where, their exact words and workaround, and a goal of about 20 problems."
+ },
+ {
+  "id": "PIN 15.2",
+  "when": "2026-11-18 14",
+  "image": "https://banovax.github.io/banovax-reels/pins/day15/pin-15-2.png",
+  "board_id": "1141240430515230559",
+  "link": "https://banovax.gumroad.com/",
+  "title": "How to Write Alt Text for Product Images: A Simple Formula",
+  "description": "Store owners: your photos can't speak, your alt text can. AI assistants and screen readers read it, and most stores leave it empty. Use this formula: what it is, plus a key detail, plus who or what it's for. Example: soy candle in an amber glass jar, lavender scent, 40-hour burn, for a calm bedroom. One line per photo.",
+  "alt_text": "Alt text formula for product images: what it is plus key detail plus who or what for, with an example for a soy candle in an amber glass jar."
+ },
+ {
+  "id": "PIN 15.3",
+  "when": "2026-11-18 17",
+  "image": "https://banovax.github.io/banovax-reels/pins/day15/pin-15-3.png",
+  "board_id": "1141240430515233343",
+  "link": "https://banovax.gumroad.com/l/ai-shopping-readiness-kit",
+  "title": "Product Page Improvement Plan: From Weak Spots to a Rewrite",
+  "description": "Store owners: the RESULTS tab lists your weak spots, and IMPROVE turns them into a step-by-step plan, fix this first, then this, plus one master prompt for the rewrite that uses your audit answers. Measure, plan, rewrite, compare. AI Shopping Readiness Kit.",
+  "alt_text": "Diagram from RESULTS weak spots to an IMPROVE step-by-step plan, plus one master prompt for the rewrite, and the flow measure, plan, rewrite, compare. AI Shopping Readiness Kit."
+ },
+ {
+  "id": "PIN 15.5",
+  "when": "2026-11-18 20",
+  "image": "https://banovax.github.io/banovax-reels/pins/day15/pin-15-5.png",
+  "board_id": "1141240430515256561",
+  "link": "https://banovax.gumroad.com/l/digital-product-system",
+  "title": "Digital Product Templates for Google Sheets and Excel",
+  "description": "No Excel? No problem. All 12 templates open in Google Sheets too, free in your browser. The scores calculate themselves, each template has a filled-in example, and it all lives in one workbook from first idea to launch. Inside The Digital Product System: From Idea to Sales.",
+  "alt_text": "Excel or Google Sheets icons with three points: the scores calculate themselves, each template has a filled-in example, from first idea to launch in one workbook."
  }
 ]
