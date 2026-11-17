@@ -808,5 +808,55 @@
   "title": "How to Check Demand for a Digital Product in 30 Minutes (Free)",
   "description": "Have an idea? Run the free 30-minute demand check. 10 minutes: is interest steady on Google Trends? 10 minutes: do people buy similar things on Gumroad and Etsy? 10 minutes: what do buyers dislike in 1 to 3 star reviews? No calls, no interviews, just your desk. Part of the Fast Start in The Digital Product System: From Idea to Sales.",
   "alt_text": "Three 10-minute blocks of a free demand check: steady interest on Google Trends, similar products on Gumroad and Etsy, buyer complaints in 1 to 3 star reviews."
+ },
+ {
+  "id": "PIN 18.1",
+  "when": "2026-11-21 08",
+  "image": "https://banovax.github.io/banovax-reels/pins/day18/pin-18-1.png",
+  "board_id": "1141240430515230465",
+  "link": "https://banovax.gumroad.com/",
+  "title": "How to Name a Digital Product: Result + Format + Who It's For",
+  "description": "Naming your first product? Name it so people get it at first read: the result, plus the format, plus who it's for. Example names: Guest-Ready Host Kit for Short-Stay Hosts, Weekly Budget Spreadsheet for Students, Client Onboarding Templates for Freelancers. Clear beats clever, every time.",
+  "alt_text": "Digital product naming formula, the result plus the format plus for who, with three example names replacing vague names like The Calm Collection."
+ },
+ {
+  "id": "PIN 18.3",
+  "when": "2026-11-21 11",
+  "image": "https://banovax.github.io/banovax-reels/pins/day18/pin-18-3.png",
+  "board_id": "1141240430515233343",
+  "link": "https://banovax.gumroad.com/l/ai-shopping-readiness-kit",
+  "title": "Does ChatGPT Describe Your Shopify Product Correctly? Quick Test",
+  "description": "Shopify owners: ask an AI assistant what is your product and who is it for. In this example it says a planner for teachers, but it's really a shift planner for nurses. A wrong answer means an unclear page: name the buyer and the use in your first lines, then ask again. Understanding tests in the AI Shopping Readiness Kit.",
+  "alt_text": "Example chat where AI describes a product as a planner for teachers while it's really a shift planner for nurses, with the fix: name the buyer and the use in your first lines."
+ },
+ {
+  "id": "PIN 18.2",
+  "when": "2026-11-21 14",
+  "image": "https://banovax.github.io/banovax-reels/pins/day18/pin-18-2.png",
+  "board_id": "1141240430515230559",
+  "link": "https://banovax.gumroad.com/",
+  "title": "How to Refresh an Old Etsy or Gumroad Listing in 4 Steps",
+  "description": "Etsy and Gumroad sellers: refresh an old listing before you make a new one. Update the title with the words buyers search, the first lines with who it's for and what they get, the preview image with one real page from inside, and one FAQ answer for the doubt you hear most. One at a time: change one, wait for about 100 visits, then change the next.",
+  "alt_text": "Four ways to refresh an old listing: title, first lines, preview image, one FAQ, with the rule to change one thing at a time and wait for about 100 visits."
+ },
+ {
+  "id": "PIN 18.5",
+  "when": "2026-11-21 17",
+  "image": "https://banovax.github.io/banovax-reels/pins/day18/pin-18-5.png",
+  "board_id": "1141240430515233356",
+  "link": "https://banovax.gumroad.com/l/digital-product-system",
+  "title": "How to Test Your Digital Product Before Launch: The Self-Test",
+  "description": "Built your first product? You can't see your own gaps, so become a stranger. Wait a day, follow only your written steps like a brand-new buyer, and note every guess, each one is a missing line. It's ready when you reach the first result using only your steps and the 12-point check passes. Product Blueprint inside The Digital Product System: From Idea to Sales.",
+  "alt_text": "Self-test steps for a new digital product: wait a day, follow only your written steps, note every guess; ready when you reach the first result and the 12-point check passes."
+ },
+ {
+  "id": "PIN 18.4",
+  "when": "2026-11-21 20",
+  "image": "https://banovax.github.io/banovax-reels/pins/day18/pin-18-4.png",
+  "board_id": "1141240430515234529",
+  "link": "https://banovax.gumroad.com/l/ai-shopping-readiness-kit",
+  "title": "Does ChatGPT Recommend Your Digital Product? Try This Prompt",
+  "description": "Digital product sellers: when shoppers ask AI to compare, are you on the list? Try asking: what are the best [product type] for [buyer], compare 3 options. Check if you were on the list and if the reason was right. Recommendation tests are inside the AI Shopping Readiness Kit.",
+  "alt_text": "Prompt asking AI to compare the best product type for a buyer, an example answer list with your product as a question mark, and two checks: were you on the list, was the reason right."
  }
 ]
